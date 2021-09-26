@@ -20,5 +20,5 @@
 	4.2. Open a command prompt and run the command "pip install robotframework-faker"
 
 # 5. To run tests:
-  5.1. Download the project
-  5.2. Open a command prompt, access the project directory, and run the command "robot -d /results src/test"
+  	5.1. Download the project
+  	5.2. Open a command prompt, access the project directory, and run the command "robot -d /results src/test"
